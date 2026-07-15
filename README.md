@@ -109,7 +109,7 @@ sections 字段是纯文本，按行解析：
 本仓库同时是一个 Codex skill。将仓库克隆到 `~/.codex/skills/` 下即可：
 
 ```bash
-git clone https://github.com/yudongyachi/report-writing.git ~/.codex/skills/report-writing
+git clone https://github.com/xingchenyd/report-writing.git ~/.codex/skills/report-writing
 ```
 
 随后在对话中说「用 report-writing 写一篇课程论文……」即可触发。
